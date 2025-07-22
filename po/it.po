@@ -1,0 +1,45 @@
+# Italian translation for tempo.
+# Copyright (C) 2025 tempo contributors
+# This file is distributed under the same license as the tempo package.
+# Albano Battistella <albanobattistella@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tempo 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 12:00+0000\n"
+"PO-Revision-Date: 2025-07-22 20:00+0200\n"
+"Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main_window.py:100
+msgid "Tempo"
+msgstr "Tempo"
+
+#: src/main_window.py:150
+msgid "BPM"
+msgstr "BPM"
+
+#: src/main_window.py:200
+msgid "Start"
+msgstr "Avvia"
+
+#: src/main_window.py:201
+msgid "Stop"
+msgstr "Ferma"
+
+#: src/main_window.py:250
+msgid "Tap Tempo"
+msgstr "Tocca per avviare Tempo"
+
+#: src/main_window.py:300
+msgid "Time Signature"
+msgstr "Indicazione del tempo"
+
+#: src/main_window.py:350
+msgid "Beat Indicator"
+msgstr "Indicatore del ritmo"
